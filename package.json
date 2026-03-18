@@ -1,0 +1,28 @@
+{
+  "name": "@kszongic/json-flatten-cli",
+  "version": "1.0.0",
+  "description": "Flatten nested JSON objects into dot-notation key-value pairs from the command line",
+  "main": "index.js",
+  "bin": {
+    "json-flatten": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js --help"
+  },
+  "keywords": [
+    "json",
+    "flatten",
+    "dot-notation",
+    "nested",
+    "cli",
+    "transform"
+  ],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/json-flatten-cli"
+  },
+  "homepage": "https://github.com/kszongic/json-flatten-cli#readme",
+  "funding": "https://github.com/sponsors/kszongic"
+}
